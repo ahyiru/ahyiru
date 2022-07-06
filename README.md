@@ -50,6 +50,6 @@ Through any of the socials below.
 <a href="http://ihuxy.com/img/img_d4294eef.jpg" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/Wechat-%2307C160.svg?&style=for-the-badge&logo=wechat&logoColor=white" /></a>
 </p>
 
-## Stats
+## ✨ Stats
 
 [![Yiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyiru&show_icons=true&theme=radical)](https://github.com/ahyiru)
