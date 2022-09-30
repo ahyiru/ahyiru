@@ -25,6 +25,8 @@ I'm yiru, a Senior Frontend Developer from <b>China</b>
 
 ## ✍ Blog posts
 
+- [场景设计](https://zhuanlan.zhihu.com/p/569794076)
+- [文件管理系统](https://zhuanlan.zhihu.com/p/563856109)
 - [React Admin Template](https://github.com/ahyiru/huxy-admin/blob/develop/README.md)
 - [低代码（low-code）简单实践](https://zhuanlan.zhihu.com/p/392299932)
 - [API接口管理](https://zhuanlan.zhihu.com/p/384786939)
