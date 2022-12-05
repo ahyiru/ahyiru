@@ -50,7 +50,7 @@ Through any of the socials below.
 <p>
 <a href="https://github.com/ahyiru" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.zhihu.com/people/hu-yong-20/posts" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-%230077B5.svg?&style=for-the-badge&logo=zhihu&logoColor=white" /></a>
-<a href="http://ihuxy.com/img/img_d4294eef.jpg" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/Wechat-%2307C160.svg?&style=for-the-badge&logo=wechat&logoColor=white" /></a>
+<a href="https://mp.weixin.qq.com/s/xSVqr_LOjxKi9ftBSS2ywg" target="_blank"><img alt="Wechat" src="https://img.shields.io/badge/Wechat-%2307C160.svg?&style=for-the-badge&logo=wechat&logoColor=white" /></a>
 </p>
 
 ## ✨ Stats
