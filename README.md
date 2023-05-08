@@ -1,6 +1,6 @@
 ## 👀 About
 
-I'm yiru, a Senior Frontend Developer from <b>China</b>
+I'm yiru, a Full stack development engineer from <b>China</b>
 
 <h3>Things I code with</h3>
 
