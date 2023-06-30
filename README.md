@@ -1,6 +1,6 @@
 ## 👀 About
 
-I'm yiru, a Full stack development engineer from <b>China</b>
+I'm yiru, a specialized Full Stack MERN Developer with more than ten years of experience.
 
 <h3>Things I code with</h3>
 
